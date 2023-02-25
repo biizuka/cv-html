@@ -1,0 +1,17 @@
+body {
+    background-color: azure;
+}
+
+hr {
+    border-style: none;
+    border-color: lightskyblue;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 7%;
+}
+h1{
+    color: cornflowerblue;
+}
+h3{
+    color:cornflowerblue
+}
